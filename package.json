@@ -1,0 +1,22 @@
+{
+  "name": "oleksiy-navannniyyy-tea-npm",
+  "version": "1.0.0",
+  "description": "the eyes chico, they never lies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleksiyNavaniy/oleksiy-navannniyyy-tea-npm.git"
+  },
+  "dependencies": {
+ "petrooporooshenkoo-tea-npm-project": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleksiyNavaniy/oleksiy-navannniyyy-tea-npm/issues"
+  },
+  "homepage": "https://github.com/oleksiyNavaniy/oleksiy-navannniyyy-tea-npm#readme"
+}
